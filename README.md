@@ -1,6 +1,7 @@
 # 📄 文档问答助手（doc-qa）
 
 内置一份公司内部标准手册，向它提问，AI 读完文档直接给出答案，并标注出处页数。
+RAG 文档问答：向文档提问，AI 带页码出处回答（LangChain + ChromaDB + DeepSeek + Streamlit）
 
 ## ✨ 功能
 
